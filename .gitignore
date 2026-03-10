@@ -11,4 +11,4 @@ frontend/build/
 
 # Mac
 .DS_Store
-EOF
+EOF.env

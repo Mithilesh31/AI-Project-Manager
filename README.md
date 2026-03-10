@@ -52,7 +52,7 @@ cd backend
 pip install -r requirements.txt
 cd ..
 python run.py
-# Flask API running at http://localhost:5000
+# Flask API running at http://localhost:5003
 ```
 
 ### 3. Frontend Setup
